@@ -39,4 +39,3 @@ UserName = prompt("Hi, I am Yoshitha Rathnayake. What is your name?");
             }
 
         }
-
