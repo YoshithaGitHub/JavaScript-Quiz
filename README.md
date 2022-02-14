@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/JavaScript-Quiz/"><b><i>WELCOME!, TO MY JAVASCRIPT QUIZ</i></b></a></div> 
+# <div align="center"><a href="https://yoshithagithub.github.io/JavaScript-Quiz/"><b><i>WELCOME!, TO MY JAVASCRIPT QUIZ</i></b></a></div> 
 
 > This is the Quiz that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
