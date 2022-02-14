@@ -6,7 +6,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/JavaScript_Quiz.html](https://yoshitharathnayake.w3spaces.com/JavaScript_Quiz.html)</i></b>
+Available at :  <b><i>[https://yoshithagithub.github.io/JavaScript-Quiz](https://yoshithagithub.github.io/JavaScript-Quiz/)</i></b>
 
 #
 # Run Locally
