@@ -1,1 +1,72 @@
+@media screen and (min-width: 500px) {
+            .heading {
+                margin: 40px;
+                font-size: 50px;
+            }
+            #img {
+                width: 15%;
+                height: 2%;
+                margin: 50px;
+            }
+        }
+        
+        @media screen and (max-width: 500px) {
+            .heading {
+                margin: 30px;
+                font-size: 40px;
+            }
+            #img {
+                width: 15%;
+                height: 2%;
+                margin: 50px;
+            }
+        }
+        
+        marquee {
+            font-size: 20px;
+            margin: 50px;
+        }
+        
+        body {
+            background-color: #34FF00;
+            animation: rainbow 5s infinite;
+            margin: 0;
+            color: black;
+            font-family: Verdana, sans-serif;
+        }
+        
+        @keyframes rainbow {
+            40% {
+                background-color: #00FFE7;
+            }
+            50% {
+                background-color: #00FFC6;
+            }
+            60% {
+                background-color: #00FF74;
+            }
+            70% {
+                background-color: #00FF04;
+            }
+            80% {
+                background-color: #FBFF00;
+            }
+            90% {
+                background-color: #FF0000;
+            }
+            100% {
+                background-color: #FF00ED;
+            }
+        }
+        
+        .Quiz {
+            font-size: 50px;
+            color: blue;
+        }
+        
+        .Quiz:hover {
+            cursor: pointer;
+            color: red;
+            transition: 1s;
+        }
 
